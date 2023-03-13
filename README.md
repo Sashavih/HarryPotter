@@ -1,7 +1,8 @@
 ### Harry Potter
 Application for Harry`s fans:)
 
-![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp.png)
+
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp.png" width="400" height="790"
 
 ![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp4.png)
 
