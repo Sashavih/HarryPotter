@@ -2,13 +2,13 @@
 Application for Harry`s fans:)
 
 
-<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp.png" width="500" >
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp.png" width="700"/>
 
-![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp4.png)
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp4.png" width="700"/>
 
-![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp3.png)
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp2.png" width="700"/>
 
-![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp2.png)
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp3.png" width="700"/>
 
 ### Technologies:
 <div>
