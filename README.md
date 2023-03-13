@@ -5,9 +5,9 @@ Application for Harry`s fans:)
 
 ![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp4.png)
 
-![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp2.png)
-
 ![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp3.png)
+
+![илюстрация к проекту](https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/hp2.png)
 
 ### Technologies:
 <div>
